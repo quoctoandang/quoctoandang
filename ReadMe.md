@@ -4,18 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ink+Free&size=30&pause=1000&color=44D62C&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%8C%B8+Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+th%E1%BA%BF+gi%E1%BB%9Bi+c%E1%BB%A7a+t%C3%B4i+%F0%9F%8C%B8;%F0%9F%8F%AF+Qu%C3%A1+tr%C3%ACnh+h%E1%BB%8Dc+h%E1%BB%8Fi+kh%C3%B4ng+bao+gi%E1%BB%9D+d%E1%BB%ABng+l%E1%BA%A1i+%F0%9F%8F%AF;%F0%9F%8E%8F+M%E1%BB%97i+d%C3%B2ng+code+l%C3%A0+m%E1%BB%99t+t%C3%A1c+ph%E1%BA%A9m+ngh%E1%BB%87+thu%E1%BA%ADt+%F0%9F%8E%8F" alt="Typing SVG" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM3MmNkMGMzMzBiMDRlZGYwOTM0YTA5YjRlYjAyYzI1OGQzZTY1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ybQIv0CXvnzqfkVUMx/giphy.gif" width="200px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM3MmNkMGMzMzBiMDRlZGYwOTM0YTA5YjRlYjAyYzI1OGQzZTY1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eiMLbHHEgw0mcELmBl/giphy.gif" width="800">
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
 ## 🌊 About Me 🌊
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmNjI0ODdhZDNhMmQzMGQzYTc3NTg5NDgzNThlNjNmZDA1OTNhZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YYW0hHizzIOrlhimPG/giphy.gif" width="100">
+        <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgwY2Q5ODc5ZjYyYWUyMGM3YWU2YmUyMGQ5M2M5OGM0NmJiY2MwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eM1k3uIEbw08qiIGkU/giphy.gif" width="150">
       </td>
       <td>
         🔭 I'm currently working on <b>Handsupchat</b> and <b>ACT4</b><br>
@@ -23,14 +23,22 @@
         🌱 I'm currently learning <b>Artificial Intelligence</b> and <b>Odoo</b><br>
         💬 Ask me about <b>Python, Django, Flask, Artificial Intelligence, Selenium</b>
       </td>
+      <td>
+        <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM2Mjg0ZGE2MGQwYWE0MzA3MTQ0YjYwYmMwMzNhMjExY2FmYzYwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y7Fc2lkYZNTdXwrpnA/giphy.gif" width="150">
+      </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRmYjY0YThmMTcwNzQ2NTE3MzNiNGJkYWJlNThmZDc4ZWU5MWRlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kvcxztaEDQJ4l1yLkr/giphy.gif" width="600">
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png">
 
 ## 🏯 Tech Stack 🏯
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU5MjQzODZlMmU0OGU2Y2YxNmUyMzkzMzE2YjA3MmQ3Mjk1MzIxMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UUg5zoMi8gnry0bkul/giphy.gif" width="200" align="right">
 
 ### 🧠 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -43,6 +51,8 @@
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQxNGVlNGEzYzU1YjViNTgzNGNjMTE2M2Y1M2RlNGQ1ZjJkOThmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/V0UcammRUle8vKMZ3h/giphy.gif" width="200" align="left">
 
 ### 🎍 Platforms & Frameworks
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
@@ -73,6 +83,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI0MTJkOGI2OGM5MDE0NWQ1MTdiYjQ4MmEwZTdmNzAwNzdlZDgwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oAt1VtCMjaNeLGLaE/giphy.gif" width="200" align="right">
+
 ### 🎋 AI & Data Science
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -87,11 +99,19 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFkZmU3ZGEzYTUzODg5NzAzMzEzODU5YmQ5YWVjMTFiMWZjMmQzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/H83MRBRZYQKz9rliiS/giphy.gif" width="500">
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📊 GitHub Stats 📊
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=quoctoandang&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk0NzY0Njg5ZWYzMjRlODYzNmVlMGVlNzk2OGNiMzRiNDI2MzVhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QJu9B7w6aRF5UUGFq5/giphy.gif" width="400">
 </div>
 
 <p align="center">
@@ -103,16 +123,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoandang&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkZDM4MzI3NDQ3YTdhNmU2ZTc5MzczYTliNDAwZjRlYjdmYWNjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WQlBrHpfWVIUCSSPOp/giphy.gif" width="600">
+</div>
+
 ### 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=quoctoandang&limit=5&theme=blue-green&combine_all_yearly_contributions=true" width="500" />
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI2NDY1ZDQyYzVhYTM3NTg0ZWVkYmUzYmM1YTY5YjQ0MDBjZTY5MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/PjJ1cLHqLEveXaEQKc/giphy-downsized-large.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc3MzY2YWM5N2YzMzM3MTE0NDg5OGVkNjYzZTkzNDcwM2ZlNzZlMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uMKsOTVrFPOzC/giphy.gif" width="600">
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM1ZjE2M2Y3MDBmYzNkYmE0NDkzNmE3ZDRiOTc5YWNiMDFiNDE2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/1Xf2RAXBQcbZS/giphy.gif" width="400">
+</div>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=quoctoandang&label=Profile%20views&color=0e75b6&style=flat" alt="quoctoandang" />
