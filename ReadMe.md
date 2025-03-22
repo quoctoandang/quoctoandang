@@ -113,7 +113,7 @@
   
   ### 🎵 What I'm Listening To
   
-  [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/)
+  [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)]([https://open.spotify.com/](https://open.spotify.com/track/7FCOpozyFUgEL7h5wijLXT))
 
 </div>
 
