@@ -3,7 +3,7 @@
   <span>🌟 Welcome to My GitHub Profile! 🌟</span>
 </div>
 
-<h1 align="center" class="dynamic-title">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center" class="dynamic-title">👋 Hello, I'm Dang Quoc Toan!</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlQ7LRal3u4FZ6c/giphy.gif" width="120" alt="Animated Welcome">
 </p>
