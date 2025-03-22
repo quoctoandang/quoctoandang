@@ -107,13 +107,13 @@
   
 </div>
 
-
+  
   ### 💭 Quote of the Day
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
   ### 🎵 What I'm Listening To
   
-  [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)]([https://open.spotify.com/]([https://open.spotify.com/track/7FCOpozyFUgEL7h5wijLXT](https://open.spotify.com/track/7FCOpozyFUgEL7h5wijLXT?creation_point=https://open.spotify.com/?sp_cid=0de91c075f1f110083d6950578a0b0fb&device=desktop#login?flow_ctx=03cb2f9d-d6aa-4a3d-afe2-938134769dc7:1742676808)))
+  [![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/)
 
 </div>
 
