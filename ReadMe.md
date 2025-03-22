@@ -1,33 +1,77 @@
-<h1 align="center">Hi there! Welcome to my GitHub Profile 👋</h1>
+<!-- Hiệu ứng CSS: Các dòng About Me sẽ xuất hiện theo thứ tự với hiệu ứng fadeIn -->
+<style>
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.about-line {
+  display: block;
+  font-size: 1.2em;
+  animation: fadeInUp 1s ease forwards;
+  opacity: 0;
+}
+.about-line:nth-child(1) { animation-delay: 0.5s; }
+.about-line:nth-child(2) { animation-delay: 1s; }
+.about-line:nth-child(3) { animation-delay: 1.5s; }
+.about-line:nth-child(4) { animation-delay: 2s; }
 
+/* Thêm hiệu ứng động cho tiêu đề */
+@keyframes scaleIn {
+  0% { transform: scale(0.8); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+.dynamic-title {
+  animation: scaleIn 1s ease forwards;
+}
+
+/* Hiệu ứng marquee động cho dòng chào mừng */
+.marquee {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  box-sizing: border-box;
+}
+.marquee span {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 10s linear infinite;
+}
+@keyframes marquee {
+  0% { transform: translate(0, 0); }
+  100% { transform: translate(-100%, 0); }
+}
+</style>
+
+<!-- Phần chào mừng với marquee động -->
+<div class="marquee">
+  <span>🌟 Welcome to My GitHub Profile! 🌟</span>
+</div>
+
+<h1 align="center" class="dynamic-title">👋 Hello, I'm [Your Name]!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal3u4FZ6c/giphy.gif" width="60" alt="animated welcome">
+  <img src="https://media.giphy.com/media/l0HlQ7LRal3u4FZ6c/giphy.gif" width="120" alt="Animated Welcome">
 </p>
 
 ---
 
 ## 💫 About Me:
-<p align="left" style="line-height:1.6;">
-  <span style="animation: pulse 2s infinite;">🔭 I’m currently working on <b>Handsupchat</b> and <b>ACT4</b></span><br>
-  <span style="animation: pulse 2s infinite;">🤝 I’m looking for help with <b>Python</b> and <b>Artificial Intelligence</b>.</span><br>
-  <span style="animation: pulse 2s infinite;">🌱 I’m currently learning <b>Artificial Intelligence</b> and <b>Odoo</b></span><br>
-  <span style="animation: pulse 2s infinite;">💬 Ask me about <b>Python, Django, Flask, Artificial Intelligence, Selenium</b></span>
-</p>
-
-<!-- Add keyframe animation (GitHub READMEs render inline HTML but ignore external CSS, so effect may vary) -->
-<style>
-@keyframes pulse {
-  0% { opacity: 0.7; }
-  50% { opacity: 1; }
-  100% { opacity: 0.7; }
-}
-</style>
+<div align="center">
+  <span class="about-line">🔭 I’m currently working on <strong>Handsupchat</strong> and <strong>ACT4</strong></span><br>
+  <span class="about-line">🤝 I’m looking for help with <strong>Python</strong> and <strong>Artificial Intelligence</strong>.</span><br>
+  <span class="about-line">🌱 I’m currently learning <strong>Artificial Intelligence</strong> and <strong>Odoo</strong></span><br>
+  <span class="about-line">💬 Ask me about <strong>Python, Django, Flask, Artificial Intelligence, Selenium</strong></span>
+</div>
 
 ---
 
 ## 💻 Tech Stack:
 <p align="center">
-  <!-- Các badges vẫn giữ nguyên nội dung nhưng sắp xếp theo layout linh hoạt -->
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
