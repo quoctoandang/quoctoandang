@@ -1,149 +1,154 @@
-# <div align="center">🏮 WELCOME TO MY DIGITAL WORLD 🏮</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A855C&height=120&section=header&text=Peaceful%20Code%20Journey&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=20" />
+
+# 🌿 Welcome to My Digital Garden 🍃
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ink+Free&size=30&pause=1000&color=44D62C&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%8C%B8+Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+th%E1%BA%BF+gi%E1%BB%9Bi+c%E1%BB%A7a+t%C3%B4i+%F0%9F%8C%B8;%F0%9F%8F%AF+Qu%C3%A1+tr%C3%ACnh+h%E1%BB%8Dc+h%E1%BB%8Fi+kh%C3%B4ng+bao+gi%E1%BB%9D+d%E1%BB%ABng+l%E1%BA%A1i+%F0%9F%8F%AF;%F0%9F%8E%8F+M%E1%BB%97i+d%C3%B2ng+code+l%C3%A0+m%E1%BB%99t+t%C3%A1c+ph%E1%BA%A9m+ngh%E1%BB%87+thu%E1%BA%ADt+%F0%9F%8E%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A855C&center=true&vCenter=true&width=435&lines=Growing+ideas+into+solutions;Cultivating+digital+landscapes;Nurturing+AI+innovations;Planting+seeds+of+knowledge" alt="Typing SVG" />
 </div>
+
+## 💫 About Me
+
+<img align="right" alt="Nature Coding" width="400" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/animation_500_kd7ngoht.gif"/>
+
+🔭 I'm currently working on **Handsupchat** and **ACT4**  
+🤝 I'm looking for help with **Python** and **Artificial Intelligence**  
+🌱 I'm currently learning **Artificial Intelligence** and **Odoo**  
+💬 Ask me about **Python, Django, Flask, Artificial Intelligence, Selenium**  
+
+<br>
+
+## 🌲 Tech Forest
+
+Taking a walk through my technical knowledge is like exploring a diverse forest ecosystem, where each technology plays its unique role in creating a balanced digital environment.
+
+<details>
+<summary>🌿 Languages - The Roots of My Knowledge</summary>
+<br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54&labelColor=e9f5db)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&labelColor=e9f5db)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white&labelColor=e9f5db)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=e9f5db)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&labelColor=e9f5db)
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white&labelColor=e9f5db)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&labelColor=e9f5db)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white&labelColor=e9f5db)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white&labelColor=e9f5db)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white&labelColor=e9f5db)
+</details>
+
+<details>
+<summary>🦉 AI & Data Science - The Wisdom of the Forest</summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white&labelColor=e9f5db)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white&labelColor=e9f5db)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white&labelColor=e9f5db)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=e9f5db)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white&labelColor=e9f5db)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white&labelColor=e9f5db)
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white&labelColor=e9f5db)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black&labelColor=e9f5db)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white&labelColor=e9f5db)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue&labelColor=e9f5db)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white&labelColor=e9f5db)
+</details>
+
+<details>
+<summary>🌊 Web Development - Flowing Like a Stream</summary>
+<br>
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white&labelColor=e9f5db)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=e9f5db)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white&labelColor=e9f5db)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white&labelColor=e9f5db)
+</details>
+
+<details>
+<summary>🌱 Databases - Seeds of Information</summary>
+<br>
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white&labelColor=e9f5db)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white&labelColor=e9f5db)
+</details>
+
+<details>
+<summary>☁️ Cloud & DevOps - The Sky Above the Forest</summary>
+<br>
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white&labelColor=e9f5db)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white&labelColor=e9f5db)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white&labelColor=e9f5db)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white&labelColor=e9f5db)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white&labelColor=e9f5db)
+![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=flat-square&logo=teamcity&logoColor=white&labelColor=e9f5db)
+</details>
+
+<details>
+<summary>🍃 Big Data - The Forest Canopy</summary>
+<br>
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black&labelColor=e9f5db)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black&labelColor=e9f5db)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&labelColor=e9f5db)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white&labelColor=e9f5db)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white&labelColor=e9f5db)
+</details>
+
+<details>
+<summary>🦔 Tools - The Forest Creatures</summary>
+<br>
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white&labelColor=e9f5db)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green&labelColor=e9f5db)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white&labelColor=e9f5db)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&labelColor=e9f5db)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=e9f5db)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&labelColor=e9f5db)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white&labelColor=e9f5db)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black&labelColor=e9f5db)
+</details>
+
+## 🌄 Growth Journey
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM3MmNkMGMzMzBiMDRlZGYwOTM0YTA5YjRlYjAyYzI1OGQzZTY1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eiMLbHHEgw0mcELmBl/giphy.gif" width="800">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quoctoandang&theme=calm&background=f8f9fa&border=0A855C" alt="GitHub Streak" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=quoctoandang&show_icons=true&theme=vue&bg_color=f8f9fa&hide_border=true&title_color=0A855C&icon_color=2E8B57&text_color=1e4620" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoandang&layout=compact&theme=vue&bg_color=f8f9fa&hide_border=true&title_color=0A855C&text_color=1e4620" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-## 🌊 About Me 🌊
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDgwY2Q5ODc5ZjYyYWUyMGM3YWU2YmUyMGQ5M2M5OGM0NmJiY2MwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eM1k3uIEbw08qiIGkU/giphy.gif" width="150">
-      </td>
-      <td>
-        🔭 I'm currently working on <b>Handsupchat</b> and <b>ACT4</b><br>
-        🤝 I'm looking for help with <b>Python</b> and <b>Artificial Intelligence</b><br>
-        🌱 I'm currently learning <b>Artificial Intelligence</b> and <b>Odoo</b><br>
-        💬 Ask me about <b>Python, Django, Flask, Artificial Intelligence, Selenium</b>
-      </td>
-      <td>
-        <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM2Mjg0ZGE2MGQwYWE0MzA3MTQ0YjYwYmMwMzNhMjExY2FmYzYwYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y7Fc2lkYZNTdXwrpnA/giphy.gif" width="150">
-      </td>
-    </tr>
-  </table>
-</div>
+### 🏞️ Contributions Garden
+![](https://github-contributor-stats.vercel.app/api?username=quoctoandang&limit=5&theme=vue&bg_color=f8f9fa&hide_border=true&title_color=0A855C&text_color=1e4620&combine_all_yearly_contributions=true)
+
+## 🌿 Forest Wisdom
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRmYjY0YThmMTcwNzQ2NTE3MzNiNGJkYWJlNThmZDc4ZWU5MWRlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/kvcxztaEDQJ4l1yLkr/giphy.gif" width="600">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png">
-
-## 🏯 Tech Stack 🏯
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU5MjQzODZlMmU0OGU2Y2YxNmUyMzkzMzE2YjA3MmQ3Mjk1MzIxMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UUg5zoMi8gnry0bkul/giphy.gif" width="200" align="right">
-
-### 🧠 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQxNGVlNGEzYzU1YjViNTgzNGNjMTE2M2Y1M2RlNGQ1ZjJkOThmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/V0UcammRUle8vKMZ3h/giphy.gif" width="200" align="left">
-
-### 🎍 Platforms & Frameworks
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-### 🏮 Databases & Tools
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI0MTJkOGI2OGM5MDE0NWQ1MTdiYjQ4MmEwZTdmNzAwNzdlZDgwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oAt1VtCMjaNeLGLaE/giphy.gif" width="200" align="right">
-
-### 🎋 AI & Data Science
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-</div>
+## 🦢 Let's Connect
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDFkZmU3ZGEzYTUzODg5NzAzMzEzODU5YmQ5YWVjMTFiMWZjMmQzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/H83MRBRZYQKz9rliiS/giphy.gif" width="500">
+  <img src="https://img.shields.io/badge/Email-88B04B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/LinkedIn-55917F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Twitter-5E8B7E?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
-## 📊 GitHub Stats 📊
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quoctoandang&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk0NzY0Njg5ZWYzMjRlODYzNmVlMGVlNzk2OGNiMzRiNDI2MzVhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QJu9B7w6aRF5UUGFq5/giphy.gif" width="400">
+  <img src="https://komarev.com/ghpvc/?username=quoctoandang&color=0A855C&style=flat-square&label=Forest+Visitors" alt="Profile Visitors" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quoctoandang&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" width="400" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=quoctoandang&theme=blue-green&hide_border=false" width="400" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A855C&height=120&section=footer" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctoandang&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlkZDM4MzI3NDQ3YTdhNmU2ZTc5MzczYTliNDAwZjRlYjdmYWNjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WQlBrHpfWVIUCSSPOp/giphy.gif" width="600">
-</div>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=quoctoandang&limit=5&theme=blue-green&combine_all_yearly_contributions=true" width="500" />
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc3MzY2YWM5N2YzMzM3MTE0NDg5OGVkNjYzZTkzNDcwM2ZlNzZlMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/uMKsOTVrFPOzC/giphy.gif" width="600">
-</div>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM1ZjE2M2Y3MDBmYzNkYmE0NDkzNmE3ZDRiOTc5YWNiMDFiNDE2MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/1Xf2RAXBQcbZS/giphy.gif" width="400">
-</div>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=quoctoandang&label=Profile%20views&color=0e75b6&style=flat" alt="quoctoandang" />
-</p>
-
-<!-- Proudly redesigned with ❤️ -->
+<!-- Peacefully created with love for nature -->
