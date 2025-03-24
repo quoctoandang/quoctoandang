@@ -50,14 +50,4 @@ I'm a passionate developer with a love for nature and simplicity.
 > "In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they're still beautiful." 
 > — Alice Walker
 
-## 🌟 Let's Connect
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/quoctoandang)
-[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
-  
-</div>
-
-<!-- "Nature does not hurry, yet everything is accomplished." - Lao Tzu -->
